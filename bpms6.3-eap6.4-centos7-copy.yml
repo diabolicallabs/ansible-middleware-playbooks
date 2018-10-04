@@ -5,6 +5,7 @@
 
   vars:
     transfer_method: copy-from-controller
+    jboss_bxms_create_default_eap_user: true
 
   roles:
   - jboss_common

@@ -7,7 +7,7 @@
 - src: sabre1041.redhat-csp-download
   name: redhat-csp-download
 
-- src: rhtconsulting.jboss_bxms
+- src: https://github.com/diabolicallabs/jboss_bxms
   name: jboss_bxms
 
 #- src: rhtconsulting.jboss_fuse
